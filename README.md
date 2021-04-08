@@ -5,7 +5,7 @@
 ### Skill Stack (Studying)
 
 - Java, C ,C++,Python 
-- reversing
+- system reversing
 - computer algorithm
 - network
 - system OS
