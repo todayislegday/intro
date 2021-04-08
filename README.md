@@ -13,7 +13,7 @@
 **Languages and Tools:**  
 
 <code><img height="35" src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/tux-327x360.png?itok=puszajU_"></code>
-<code><img height="35" src="https://github.com/spring-projects/spring-framework/blob/master/src/docs/spring-framework.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
