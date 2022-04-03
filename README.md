@@ -13,6 +13,6 @@
 **Languages and Tools:**  
 
 <code><img height="35" src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/tux-327x360.png?itok=puszajU_"></code>
-<code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkubernetes.io%2Fko%2F&psig=AOvVaw2VL5VQ7FYz4strq_VOY0BY&ust=1649062168191000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCEmbjB9_YCFQAAAAAdAAAAABAD"></code>
+<code><img height="35" src="https://https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg"></code>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=00FF00&height=200&section=footer&fontSize=90)
