@@ -13,8 +13,6 @@
 **Languages and Tools:**  
 
 <code><img height="35" src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/tux-327x360.png?itok=puszajU_"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://media.vlpt.us/images/new_wisdom/post/e0d04a08-e25f-412a-8635-553aaae94082/django.jpeg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkubernetes.io%2Fko%2F&psig=AOvVaw2VL5VQ7FYz4strq_VOY0BY&ust=1649062168191000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCEmbjB9_YCFQAAAAAdAAAAABAD"></code>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=00FF00&height=200&section=footer&fontSize=90)
